@@ -7,6 +7,7 @@ void greet()
 
 }
 
+void solution();
 
 int main ()
 {
